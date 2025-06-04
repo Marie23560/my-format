@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marie ! <br/><a href="https://github.com/Marie23560">Programmer</a>, <a href="https://www.linkedin.com/in/marie-pascale-kanzayire-270762311/">Registration format</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Marie ! <br/><a href="https://github.com/Marie23560">Programmer</a>, <a href="https://www.linkedin.com/in/marie-pascale-kanzayire-270762311/">Registration format</a>,</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
