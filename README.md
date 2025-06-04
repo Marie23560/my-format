@@ -1,10 +1,12 @@
-<h1>Hi, I'm Marie ! <br/><a href="https://github.com/Marie23560">Programmer</a>, <a href="https://www.linkedin.com/in/marie-pascale-kanzayire-270762311/">Registration format</a>,</a></h1>
+<h1>Hi, I'm Marie Pascale! <br/><a href="https://github.com/Marie23560">Programmer</a>, <a href="https://www.linkedin.com/in/marie-pascale-kanzayire-270762311/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Marie23560/my-format)
-  - [hello world](https://github.com/Marie23560/my-format)
+  - [still progress in my skill of html and css](https://github.com/Marie23560/my-format)
+  - [started my online lesson in cybersecurity](https://github.com/Marie23560/my-format)
+  - [Backend beginer](https://github.com/Marie23560/my-format)
   <h2> 📜Certifications</h2>
     - [Google IT support proffesional ](https://github.com/Marie23560/my-format)
   <h2>📺 Popular YouTube Videos i used for research</h2>
